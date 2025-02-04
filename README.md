@@ -49,8 +49,6 @@
 <div class="container">
     <img class="image" src="https://cdn.shopify.com/s/files/1/0398/6145/2953/files/kats-weil-CLD1i8hp008-unsplash-1-1024x684.jpg" alt="Groomsman image" style="width: 80%; height: auto; border-radius: 10px;">
     <p>It would mean a lot to have you as one of my groomsmen!</p>
-    
-    <p>Thanks for being part of this day!</p>
 </div>
 
 <footer>
